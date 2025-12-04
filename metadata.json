@@ -1,0 +1,8 @@
+{
+  "name": "1v1 Chat",
+  "description": "A high-fidelity, real-time capable chat interface featuring Gemini-powered conversational agents to simulate 1:1 messaging functionality.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
